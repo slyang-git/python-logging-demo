@@ -2,7 +2,7 @@
 
 
 """
-Created by yangshuanglong@wecash.net on 2017/11/9
+Created by Bruce Yang on 2017/11/9
 """
 import logging
 
