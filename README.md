@@ -17,6 +17,7 @@ The logging library takes a modular approach and offers several categories of co
 * Filters provide a finer grained facility for determining which log records to output.
 * Formatters specify the layout of log records in the final output.
 
+![logging-flow](docs/images/logging_flow.png)
 
 A good convention to use when naming loggers is to use a module-level logger, in each module which uses logging, named as follows:
 
@@ -25,3 +26,7 @@ logger = logging.getLogger(__name__)
 ```
 
 # Logging from multiple modules
+
+
+
+<https://docs.python.org/3/howto/logging.html>
